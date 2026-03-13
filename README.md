@@ -18,7 +18,6 @@ Most of my learning comes from experimenting, breaking things, and building them
 
 ## 🛠️ Tech Stack
 
-(Add your languages here)
 
 ```
 Languages:   JavaScript,CPP,C#,Python,Bash,php
