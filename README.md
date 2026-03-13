@@ -35,7 +35,7 @@ Learning:   Rust,POSTGRES,Mobius,Flutter.
 
 ## 🔗 Connect
 
-* GitHub: https://github.com/Adorniscooking
+  i hate people !!!!
 
 ---
 
