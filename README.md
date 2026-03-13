@@ -1,8 +1,8 @@
-# Hi there 👋 I'm Adorniscooking
+# Hi there 👋 I'm Adorn
 
 🚀 Developer | Builder | Curious Learner
 
-I enjoy building projects, exploring new technologies, and solving problems with code.
+This is my college repo where I post what i have learned from college also i enjoy building projects, exploring new technologies, and solving problems with code.as you see there is nothing in my repo this is what a college provides !!!
 Most of my learning comes from experimenting, breaking things, and building them better.
 
 ---
